@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "../../.pio/build/uno_two_leds/firmware.hex"
+elf = "../../.pio/build/uno_two_leds/firmware.elf"
